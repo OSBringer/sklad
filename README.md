@@ -1,6 +1,7 @@
 # :rocket: Raketaci  Calculator
-//![GitHub Logo](https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg)
-Format: ![Alt Text]((https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg))
+
+<img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 ______
 # Developed using
  * C# 
