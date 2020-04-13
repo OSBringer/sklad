@@ -5,6 +5,7 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg" alt="Kitten"
 	title="Calculator" width="400" height="500" />
 </div>
+
 # About
 The purpose of this projecct was to teach us to work in a team. Also to teach us how to work with developing tools e.g.(Git,Trello,Visual Studio Tools)
 
