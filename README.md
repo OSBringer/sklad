@@ -14,7 +14,7 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 # About
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
 ## About project meaning
-The purpose of this projecct was to teach us to work in a team. Also to teach us how to work with developing tools e.g.(Git,Trello,Visual Studio Tools)
+The purpose of this project was to teach us to work as a team. Also to teach us how to work with developing tools e.g.(Git,Trello,Visual Studio Tools)
 
 # Installation
 blank
