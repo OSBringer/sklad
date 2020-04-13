@@ -1,4 +1,5 @@
 # :rocket: Raketaci  Calculator
+
 <div align="center">
 
 <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg" alt="Kitten"
