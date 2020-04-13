@@ -8,12 +8,13 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 <div align="center">
 
 <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg# thumbnail bordered" alt="Kitten"
-	title="Calculator" width="400" height="550" />
+	title="Calculator" width="400" height="550" />	
+</div>
+<style>
 	img[src~="bordered"] {
    border: 1px solid black;
 }
-</div>
-
+</style>
 # About
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
 ## About project meaning
