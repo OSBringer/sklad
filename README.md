@@ -1,5 +1,6 @@
 # :rocket: Raketaci  Calculator
-![GitHub Logo](https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg)
+//![GitHub Logo](https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg)
+Format: ![Alt Text]((https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg))
 ______
 # Developed using
  * C# 
