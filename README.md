@@ -5,6 +5,7 @@
 <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />
 </div>
+
 ______
 # Developed using
  * C# 
