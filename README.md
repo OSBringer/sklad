@@ -1,6 +1,6 @@
-<div align="center">
+
 # :rocket: Raketaci Calculator 
-</div>
+
 
 <div align="center">
 IVS Project 2 - BUT FIT Brno 2019/2020
