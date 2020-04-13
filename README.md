@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg" alt="Kitten"
-	title="Calculator" width="300" height="500" />
+	title="Calculator" width="400" height="500" />
 </div>
 
 ______
