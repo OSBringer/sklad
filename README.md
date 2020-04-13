@@ -11,11 +11,6 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 	title="Calculator" width="400" height="550" />	
 </div>
 
-<style>
-	img[src~="bordered"] {
-   border: 1px solid black;
-}
-</style>
 
 # About
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
