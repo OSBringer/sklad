@@ -1,5 +1,12 @@
 # :rocket: Raketaci  Calculator
-_____
+
+______
+# Developed using
+ * C# 
+ * Visual Studio
+ * Trello
+ * Discord
+ ______
 # Authors
  * Mário Harvan
  * Boris Hlavienka
