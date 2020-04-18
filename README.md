@@ -2,11 +2,7 @@
 # :rocket: Raketaci Calculator 
 > <div align="center"> IVS Project 2 - BUT FIT Brno 2019/2020 </div>	
 	
-<div align="center">
 
-<img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg# thumbnail bordered" alt="Kitten"
-	title="Calculator" width="400" height="550" />	
-</div>
 
 # Table of Contents 
 
@@ -43,6 +39,14 @@ blank
  
  # Supported enviroments
   * Windows 10 64bit
+  
+# Example
+
+<div align="center">
+
+<img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg# thumbnail bordered" alt="Kitten"
+	title="Calculator" width="400" height="550" />	
+</div>
 
 # Authors
  > * xharva96	Mário Harvan
