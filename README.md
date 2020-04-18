@@ -17,8 +17,8 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 
 - [About](#About)
 - [Install](#Install)
-- [Developed using](#Developed_using)
-- [Supported Enviroments](#Supported_Enviroments)
+- [Developed using](#Developedusing)
+- [Supported Enviroments](#Supportedenviroments)
 - [Authors](#Authors)
 - [License](#License)
 
@@ -39,7 +39,7 @@ Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_s
  * Trello
  * Discord
  
- # Supported Enviroments
+ # Supported enviroments
   * Windows 10 64bit
 
 # Authors
