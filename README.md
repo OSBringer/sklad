@@ -54,5 +54,5 @@ blank
  > * xmarti96	Luboš Martinček
  > * xslesa01	Michal Šlesár 
  
-# Licence
+# License
 This project is licensed under the GNU GPL v.3 License.
