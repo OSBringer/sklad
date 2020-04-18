@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+
 # :rocket: Raketaci Calculator 
 
 <div align="center">
@@ -30,7 +30,7 @@ Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_s
  * Discord
  
  # Supported Enviroments
-  *Windows 10 64bit
+  * Windows 10 64bit
  
 # Authors
  * xharvaMário Harvan
