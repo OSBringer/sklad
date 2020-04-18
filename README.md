@@ -12,9 +12,6 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 </div>
 
 # Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
 - [About](#About)
 - [Install](#Install)
 - [Developed using](#developed-using)
