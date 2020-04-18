@@ -48,10 +48,10 @@ blank
   * Windows 10 64bit
 
 # Authors
- > * xharva96 Mário Harvan
- > * xhlavi18 Boris Hlavienka
- > * xmarti96 Luboš Martinček
- > * xslesa01 Michal Šlesár 
+ > * xharva96	Mário Harvan
+ > * xhlavi18	Boris Hlavienka
+ > * xmarti96	Luboš Martinček
+ > * xslesa01	Michal Šlesár 
  
 # Licence
 This project is licensed under the GNU GPL v.3 License.
