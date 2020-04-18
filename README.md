@@ -24,6 +24,13 @@ We build a fully instalable,simple GUI calculator from scratch with some basic m
 ## About project meaning
 The purpose of this project was to teach us to work as a team. Also to teach us how to work with developing tools e.g.(Git,Trello,Visual Studio Tools) 
 
+# Example
+
+<div align="center">
+
+<img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg# thumbnail bordered" alt="Kitten"
+	title="Calculator" width="400" height="550" />	
+</div>
 
 # Install
 blank
@@ -40,14 +47,6 @@ blank
  # Supported enviroments
   * Windows 10 64bit
   
-# Example
-
-<div align="center">
-
-<img src="https://github.com/majkoce/Raketaci_calculator_development/blob/master/mockup/kalkulacka.jpg# thumbnail bordered" alt="Kitten"
-	title="Calculator" width="400" height="550" />	
-</div>
-
 # Authors
  > * xharva96	Mário Harvan
  > * xhlavi18	Boris Hlavienka
