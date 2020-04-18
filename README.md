@@ -15,11 +15,11 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 
 > If your `README` has a lot of info, section headers might be nice.
 
-- [about](#About)
+- [About](#About)
 - [Install](#Install)
 - [Developed using](#Developed_using)
 - [Supported Enviroments](#Supported_Enviroments)
-- [authors](#Authors)
+- [Authors](#Authors)
 - [License](#License)
 
 # About
