@@ -13,7 +13,7 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 
 # Table of Contents 
 
-<div align="center">	
+
 	
 - [About](#About)
 - [Install](#Install)
@@ -22,7 +22,7 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 - [Authors](#Authors)
 - [License](#License)
 	
-</div>	
+
 
 # About
 > Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_spoluprace2019-20.html)
