@@ -14,12 +14,14 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 # Table of Contents 
 
 <div align="center">	
+	
 - [About](#About)
 - [Install](#Install)
 - [Developed using](#developed-using)
 - [Supported Enviroments](#supported-enviroments)
 - [Authors](#Authors)
 - [License](#License)
+	
 </div>	
 
 # About
