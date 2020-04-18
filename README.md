@@ -15,12 +15,12 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 
 > If your `README` has a lot of info, section headers might be nice.
 
-- [about](#about)
-- [Install](#isntall)
+- [about](#About)
+- [Install](#Install)
 - [Developed using](#Developed_using)
 - [Supported Enviroments](#Supported_Enviroments)
-- [authors](#authors)
-- [License](#license)
+- [authors](#Authors)
+- [License](#License)
 
 # About
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
