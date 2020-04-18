@@ -11,7 +11,7 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 	title="Calculator" width="400" height="550" />	
 </div>
 
-# Table of Contents (Optional)
+# Table of Contents 
 - [About](#About)
 - [Install](#Install)
 - [Developed using](#developed-using)
