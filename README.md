@@ -17,8 +17,8 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 
 - [About](#About)
 - [Install](#Install)
-- [Developed using](#Developedusing)
-- [Supported Enviroments](#Supportedenviroments)
+- [Developed using](#developed-using)
+- [Supported Enviroments](#supported-enviroments)
 - [Authors](#Authors)
 - [License](#License)
 
