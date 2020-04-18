@@ -40,9 +40,10 @@ Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_s
   * Windows 10 64bit
 
 # Authors
- * xharvaMário Harvan
+ * xharva96 Mário Harvan
  * xhlavi18 Boris Hlavienka
  * xmarti96 Luboš Martinček
- * xslesa Michal Šlesár 
+ * xslesa01 Michal Šlesár 
  
 # Licence
+This project is licensed under the GNU GPL v.3 License.
