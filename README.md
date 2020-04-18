@@ -17,7 +17,7 @@ We build a fully instalable,simple GUI calculator from scratch with some basic m
 ## About project meaning
 The purpose of this project was to teach us to work as a team. Also to teach us how to work with developing tools e.g.(Git,Trello,Visual Studio Tools)
 
-# Installation
+# Install
 blank
 
 # Assignment
