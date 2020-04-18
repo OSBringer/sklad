@@ -20,7 +20,9 @@
 
 # About
  IVS Project 2 - BUT FIT Brno 2019/2020	
+ 
 Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_spoluprace2019-20.html)
+
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
 ## About project meaning
 The purpose of this project was to teach us to work as a team. Also to teach us how to work with developing tools e.g.(Git,Trello,Visual Studio Tools) 
