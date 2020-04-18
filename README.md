@@ -11,6 +11,17 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 	title="Calculator" width="400" height="550" />	
 </div>
 
+# Table of Contents (Optional)
+
+> If your `README` has a lot of info, section headers might be nice.
+
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Team](#team)
+- [FAQ](#faq)
+- [Support](#support)
+- [License](#license)
 
 # About
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
