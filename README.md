@@ -10,6 +10,7 @@
 
 	
 - [About](#About)
+- [Example](#Example)
 - [Install](#Install)
 - [Developed using](#developed-using)
 - [Supported Enviroments](#supported-enviroments)
