@@ -1,7 +1,7 @@
  
 # <div align="center"> :rocket: Raketaci Calculator </div>
 
-> <div align="center"> IVS Project 2 - BUT FIT Brno 2019/2020 </div>	
+ 
 	
 
 
@@ -19,6 +19,7 @@
 
 
 # About
+> IVS Project 2 - BUT FIT Brno 2019/2020	
 > Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_spoluprace2019-20.html)
 
 We build a fully instalable,simple GUI calculator from scratch with some basic mathematic functions and other features
