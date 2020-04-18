@@ -15,12 +15,11 @@ IVS Project 2 - BUT FIT Brno 2019/2020
 
 > If your `README` has a lot of info, section headers might be nice.
 
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
+- [about](#about)
+- [Install](#isntall)
+- [Developed using](#Developed using)
+- [Supported Enviroments](#Supported Enviroments)
+- [authors](#authors)
 - [License](#license)
 
 # About
@@ -49,4 +48,4 @@ Project assigment can be found [here](http://ivs.fit.vutbr.cz/projekt-2_tymova_s
  * xmarti96 Luboš Martinček
  * xslesa Michal Šlesár 
  
-
+# Licence
