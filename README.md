@@ -1,6 +1,6 @@
 
  
-# <div align="center"> <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/Documentation/mockup/appIcon.png?raw=true# thumbnail bordered" alt="Kitten"
+# <div align="center"> <img src="https://github.com/majkoce/Raketaci_calculator_development/blob/Documentation/mockup/appIcon.png# thumbnail bordered" alt="Kitten"
 	title="Calculator" width="400" height="550" />	 Raketaci Calculator </div>
 
 <div align="center">  IVS Project 2 - BUT FIT Brno 2019/2020	 </div>
