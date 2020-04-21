@@ -39,7 +39,7 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
 
 <div align="center">
 
-<img src="https://imgur.com/a/QLwhA2x# thumbnail bordered" alt="Kitten"
+<img src="https://imgur.com/a/QLwhA2x thumbnail bordered" alt="Kitten"
 	title="Calculator" width="1000" height="550" />	
 </div>
 
