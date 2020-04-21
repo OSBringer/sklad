@@ -55,6 +55,9 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
 
 * Go to Settings > Apps > Apps & features 
 * Find Calculator App click on it and select uninstall
+
+ ---
+ 
 # Developed using
  * C# 
  * Visual Studio
