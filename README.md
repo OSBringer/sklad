@@ -41,7 +41,7 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
 
  * Follow the Calculator Setup Wizard 
 
-* Select a folder you want the calculator to be in and choose users that will have calculator installed
+* Select a folder you want the calculator to be installed in and choose users that will have calculator installed
  ---
 <div align="center">
 
