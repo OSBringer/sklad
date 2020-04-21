@@ -36,11 +36,11 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
 </div>
 
 # Install
- ---
+
  * In folder ./Raketaci_calculator_development-master/installer run program setup
- ---
+
  * Run through the Calculator Setup Wizard 
- ---
+
 * Select a folder you want the calculator to be in and choose users that will have calculator installed
  ---
 <div align="center">
@@ -48,7 +48,7 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
 <img src="https://i.imgur.com/XUoXRBH.jpg# thumbnail bordered" alt="Kitten"
 	title="Calculator" width="900" height="350" />	
 </div>
-
+ ---
 
 # Developed using
  * C# 
