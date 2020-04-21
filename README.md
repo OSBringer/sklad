@@ -48,6 +48,7 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
 <img src="https://i.imgur.com/XUoXRBH.jpg# thumbnail bordered" alt="Kitten"
 	title="Calculator" width="900" height="350" />	
 </div>
+
  ---
 
 # Developed using
