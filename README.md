@@ -68,7 +68,7 @@ The purpose of this project was to teach us to work as a team. Also to teach us 
   * Windows 10 64bit
   
 # Authors
- > * xharva96	Mário Harvan
+ > * xharva03	Mário Harvan
  > * xhlavi18	Boris Hlavienka
  > * xmarti96	Luboš Martinček
  > * xslesa01	Michal Šlesár 
